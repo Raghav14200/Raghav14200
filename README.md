@@ -1,6 +1,12 @@
 ### Hi there, I'm Raghavendra Achar C 👋
 
+<br/>
+<p align="center">
+<img  src="https://i.imgur.com/YyAcyNV.png" height="300" style="border-radius:50%"/>
+</p>
+                                                      
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
 
 
 ## 🙋‍♂️ About Me
