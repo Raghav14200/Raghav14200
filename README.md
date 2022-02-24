@@ -50,15 +50,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Raghav14200/github-readme-activity-graph"><img alt="Raghavendra Achar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghav14200&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-</p>
 
 
 <!--
