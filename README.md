@@ -1,6 +1,6 @@
 ### Hi there, I'm Raghavendra Achar C 👋
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/a/1lIGiVW" height="175px"/></a>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
